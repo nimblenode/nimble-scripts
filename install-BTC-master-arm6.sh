@@ -51,6 +51,7 @@ git clone https://github.com/bitcoin/bitcoin.gitt bitcoin
 
 # Go into Directory
 cd bitcoin
+git checkout 0.18
 
 # Install Berkeleydb 4.8
 chmod +x ~/nimble-scripts/berkeleydb-installation.sh
