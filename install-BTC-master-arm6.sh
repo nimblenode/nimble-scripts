@@ -47,7 +47,7 @@ sudo apt-get install unzip -y
 
 # Get Repo
 cd /$BASE
-git clone https://github.com/bitcoin/bitcoin.gitt bitcoin
+git clone https://github.com/bitcoin/bitcoin.git bitcoin
 
 # Go into Directory
 cd bitcoin
