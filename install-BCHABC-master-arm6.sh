@@ -54,7 +54,7 @@ cd bitcoinabc
 
 # Install Berkeleydb 4.8
 chmod +x ~/nimble-scripts/berkeleydb-installation.sh
-~/nimble-scripts/berkeleydb-installation.sh /$BASE/bitcoin/
+~/nimble-scripts/berkeleydb-installation.sh /$BASE/bitcoinabc/
 
 # Install Berkleydb Dependency (5.3)
 # sudo apt-get install libdb++-dev -y
